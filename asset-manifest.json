@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Simple-Coin-counter-/static/css/main.fac6c49f.chunk.css",
+    "main.js": "/React-Simple-Coin-counter-/static/js/main.0bbb02f3.chunk.js",
+    "main.js.map": "/React-Simple-Coin-counter-/static/js/main.0bbb02f3.chunk.js.map",
+    "runtime-main.js": "/React-Simple-Coin-counter-/static/js/runtime-main.e7e37c28.js",
+    "runtime-main.js.map": "/React-Simple-Coin-counter-/static/js/runtime-main.e7e37c28.js.map",
+    "static/js/2.4a08ddd4.chunk.js": "/React-Simple-Coin-counter-/static/js/2.4a08ddd4.chunk.js",
+    "static/js/2.4a08ddd4.chunk.js.map": "/React-Simple-Coin-counter-/static/js/2.4a08ddd4.chunk.js.map",
+    "static/js/3.875be51d.chunk.js": "/React-Simple-Coin-counter-/static/js/3.875be51d.chunk.js",
+    "static/js/3.875be51d.chunk.js.map": "/React-Simple-Coin-counter-/static/js/3.875be51d.chunk.js.map",
+    "index.html": "/React-Simple-Coin-counter-/index.html",
+    "static/css/main.fac6c49f.chunk.css.map": "/React-Simple-Coin-counter-/static/css/main.fac6c49f.chunk.css.map",
+    "static/js/2.4a08ddd4.chunk.js.LICENSE.txt": "/React-Simple-Coin-counter-/static/js/2.4a08ddd4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7e37c28.js",
+    "static/js/2.4a08ddd4.chunk.js",
+    "static/css/main.fac6c49f.chunk.css",
+    "static/js/main.0bbb02f3.chunk.js"
+  ]
+}
